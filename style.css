@@ -1,0 +1,60 @@
+.box {
+    background: #99e6ff;
+    padding-top: 20px;
+}
+.row {
+    padding-bottom: 15px;
+}
+.color {
+    background:#ccf2ff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#section-1 {
+    margin-bottom: 15px;
+}
+#section-2 {
+    margin-bottom: 15px;
+    width: 70%;
+    float: left;
+}
+
+#section-3 {
+    width: 30%;
+    float: left;
+    padding-left: 10px;
+    text-align: center;
+}
+#section-3 .color {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+#section-4 {
+    width: 70%;
+    float: left;
+}
+#section-4 .box {
+    height: 500px;
+    text-align: center;
+    padding-top: 220px;
+}
+#section-5 {
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding-left: 10px;
+}
+#section-5 .box {
+    padding-top: 232px;
+    padding-bottom: 236px;
+}
+
+#section-5 .col-sm-12 {
+    width: 100%;
+}
+#section-6 {
+    margin-top: 20px;
+    width: 100%;
+    float: right;
+}

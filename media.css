@@ -1,0 +1,37 @@
+@media (min-width: 276px) and (max-width: 768px) {
+    #section-2 {
+        margin-bottom: 15px;
+        width: 100%;
+        float: none;
+    }
+
+    #section-3 {
+        width: 100%;
+        float: none;
+        padding-left: 0px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    #section-4 {
+        width: 100%;
+        float: none;
+        margin-bottom: 15px;
+    }
+    #section-4 .box {
+        height: 200px;
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    #section-5 {
+        width: 100%;
+        float: none;
+        text-align: center;
+        padding-left: 0px;
+    }
+    #section-5 .box {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+}
